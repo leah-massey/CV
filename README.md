@@ -1,11 +1,6 @@
 ## Leah Massey
 
-Hello, my name is Leah and I'm a maker from Cornwall with a background in tailoring and production management. I've a sharp analytical mind and an endlessly sunny outlook.
 
-find something you like and learn how to make it. I'm excited to be building 
-
-
-If I find something I like, I'd sooner learn how to make it than buy it. 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -84,4 +79,8 @@ That in some arguable way make you a better software developer or well-rounded p
 
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years.
 I play tennis and have a mean forehand although you're probably more likely to recognise me ....
+Hello, my name is Leah and I'm a maker from Cornwall with a background in tailoring and production management. I've a sharp analytical mind and an
+I find  something you like, I take it apart and I rebuild it, but better. I'm excited to be building 
 
+
+If I find something I like, I'd sooner learn how to make it than buy it. 
