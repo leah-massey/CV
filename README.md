@@ -1,4 +1,11 @@
-## Your Name
+## Leah Massey
+
+Hello, my name is Leah and I'm a maker from Cornwall with a background in tailoring and production management. I've a sharp analytical mind and an endlessly sunny outlook.
+
+find something you like and learn how to make it. I'm excited to be building 
+
+
+If I find something I like, I'd sooner learn how to make it than buy it. 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,12 +18,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Palava** (November 2018 - June 2022)  
+Production Manager
+
+- 
+
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
+**Studio Reed** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
@@ -45,7 +55,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January '23 - May '23)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,11 +64,17 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (2007 - 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Drama & English 
+- 2.1
+- I spent most of my time
+
+#### University College Falmouth (2006 - 2007)
+
+- Art Foundation 
+- Merit
+- I went in wanting to become a fine artist, I came out thinking otherwise 
 
 #### Any other qualifications
 
@@ -66,4 +82,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years.
+I play tennis and have a mean forehand although you're probably more likely to recognise me ....
+
