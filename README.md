@@ -30,6 +30,16 @@ PA to Director
 **Edward Sexton Master Tailor** (dates)  
 Tailoring Assistant
 
+**Rushforth Media** (Dec 2012 - Sep 2014)  
+Audio Book Producer / Sound Engineer
+
+**Mother London**
+Runner 
+
+**Warner Brothers - Johnny English II**
+Set Decorator's Assistant
+
+
 ## Skills
 
 I'm a problem solver. I like to create systems where there are none to help create an efficient working environment. 
