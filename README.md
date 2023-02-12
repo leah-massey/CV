@@ -16,17 +16,23 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Palava** (November 2018 - June 2022)  
 Production Manager
 
-- 
+- Managing the Design & Production Critical Path.
+- Creator of Palava's Heritage Knitwear - 100% British garments, from sheep to final knit.
+- Leading Palava's Heritage projects. 
+- In charge of sampling, fabric sourcing, production of garments and cloth, photoshoots & copy.
+- Implementing sustainable practise - plastic free packaging and minimising waste during production.
 
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Studio Reed** (start-date to end-date)  
-_Your job title_
+**Studio Reed** (Jan 2016 - March 2018)  
+PA to Director
 
 - Any experience relevent to software development
 
+**Edward Sexton Master Tailor** (dates)  
+Tailoring Assistant
+
 ## Skills
+
+I'm a problem solver. I like to create systems where there are none to help create an efficient working environment. 
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
@@ -61,9 +67,11 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### University of Bristol (2007 - 2010)
 
+Newham College
+- Tailoring Diploma 
+
 - Drama & English 
 - 2.1
-- I spent most of my time
 
 #### University College Falmouth (2006 - 2007)
 
@@ -78,9 +86,12 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years.
-I play tennis and have a mean forehand although you're probably more likely to recognise me ....
-Hello, my name is Leah and I'm a maker from Cornwall with a background in tailoring and production management. I've a sharp analytical mind and an
-I find  something you like, I take it apart and I rebuild it, but better. I'm excited to be building 
+If I'm not dancing, I can usually be found on the tennis courts in and around Hackney or drafting a new pattern for some clothing I've designed. 
 
 
+Hello, my name is Leah 
+I'm a maker and a problem solver with a background in tailoring and production management. 
+
+I've a sharp analytical mind and an eye that cannot help but look over a problem one last time, 
+I find something I like, I take it apart and I rebuild it, but better.
 If I find something I like, I'd sooner learn how to make it than buy it. 
