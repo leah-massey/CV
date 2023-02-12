@@ -65,10 +65,10 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol (2007 - 2010)
+#### Newham College
+- Tailoring Diploma
 
-Newham College
-- Tailoring Diploma 
+#### University of Bristol (2007 - 2010) 
 
 - Drama & English 
 - 2.1
@@ -79,6 +79,17 @@ Newham College
 - Merit
 - I went in wanting to become a fine artist, I came out thinking otherwise 
 
+#### Truro College 
+
+- A Levels : Maths(A), English(A), Art(A)
+
+#### Liskeard School and Community College
+
+- AS Levels : Maths(A), English(A), Art(A), French(A)
+- GCSE : 9A*, 1A
+
+
+
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
@@ -86,7 +97,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years.
-If I'm not dancing, I can usually be found on the tennis courts in and around Hackney or drafting a new pattern for some clothing I've designed. 
+If I'm not dancing, I can usually be found on the tennis courts in and around Hackney or drafting a new pattern for some clothing I've designed.  
 
 
 Hello, my name is Leah 
