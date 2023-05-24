@@ -1,6 +1,6 @@
 ## Leah Massey
 
-Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and dedicated study. Interested in roles where I can continue to hone my craft within a progressive company that celebrates both creativity and process-driven efficiency. 
+Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and dedicated study. Interested in roles where I can continue to hone my craft within a company that celebrates both creativity and process-driven efficiency. 
 
 I have accrued a wide range of experiences within the creative industries - tailoring, film, interior deisgn and audio-books over the past 10+ years. My resourcefulness, gritty determination and work ethic has allowed me to work for some of the most prestigious companies in their field. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
