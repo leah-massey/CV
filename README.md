@@ -1,8 +1,13 @@
 ## Leah Massey
 
+Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and dedicated study. Interested in roles where I can continue to hone my craft within a progressive company that celebrates both creativity and process-driven efficiency. 
 
+I have accrued a wide range of experiences within the creative industries - tailoring, film, interior deisgn and audio-books over the past 10+ years. My resourcefulness, gritty determination and work ethic has allowed me to work for some of the most prestigious companies in their field. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+My logical and technical way of thinking along with my creative mindset has always proven an asset in my work. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers on another medium - one with infinite possibilities.   
+
+My interests are eclectic and wide ranging. I'm as enthusiastic about learning vintage dances as I am about ancient trees. I have always been a maker. 
+
 
 ## Projects
 
@@ -16,11 +21,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Palava** (November 2018 - June 2022)  
 Production Manager
 
-- Managing the Design & Production Critical Path.
-- Creator of Palava's Heritage Knitwear - 100% British garments, from sheep to final knit.
-- Leading Palava's Heritage projects. 
-- In charge of sampling, fabric sourcing, production of garments and cloth, photoshoots & copy.
-- Implementing sustainable practise - plastic free packaging and minimising waste during production.
+- Initialised, created and creatively directed Palava’s best selling product - a collection of heritage knitwear that was 100% British, from sheep to final knit. The collection received attention from the National Press for its sustainability credentials and quality.
+
+- Created and maintained the company’s Critical Path structure, making production more efficient and allowing Palava to bring collection launches forwards, generating an extra 2 months revenue each season. 
+
+- Budgeted the entire production run each season - producing detailed and  interactive costings sheets  (my love for Excel was born here and maybe hinted at where I was heading :-) ) 
+
+- Oversaw production from design inception through to cloth manufacture (Turkey) and garment manufacture (UK), communicating updates across entire team, keeping team engaged and excited during intense production periods
+
 
 **Studio Reed** (Jan 2016 - March 2018)  
 PA to Director
