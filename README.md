@@ -13,13 +13,14 @@ My interests are eclectic and wide ranging. I'm as enthusiastic about learning v
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Borrow My Garden**         | A webapp to do x. | React, Jest, etc. |
+| **Makers BNB **              | A webapp to do y. | Ruby              |
+| **Rank the Player **         | A game whereby the player has to guess the rank of the tennis player | Javascript, HTML, CSS, SASS         |
 
 ## Work Experience
 
 **Palava** (November 2018 - June 2022)  
-Production Manager
+Head of Production
 
 - Initialised, created and creatively directed Palava’s best selling product - a collection of heritage knitwear that was 100% British, from sheep to final knit. The collection received attention from the National Press for its sustainability credentials and quality.
 
