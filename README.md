@@ -1,8 +1,8 @@
 ## Leah Massey
 
-Hello there 👋🏻 I'm a detail oriented, Full Stack Software Engineer and enthusiastic career-switcher, trained at Makers Academy and now looking for my first job in tech. I'm interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
+Hello there 👋🏻 I'm a detail oriented, Full Stack Software Engineer, trained at the prestigious Makers Academy. I'm interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
 
-My resourcefulness, gritty determination, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world for tailoring, film and interior design. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
+My resourcefulness, people-skills, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
 My logical and technical way of thinking along with my creative mindset has always proved an asset in the workplace. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers in another medium - especially one with infinite possibilities.   
 
