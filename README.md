@@ -1,19 +1,20 @@
 ## Leah Massey
 
-Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and dedicated study. Interested in roles where I can continue to hone my craft within a company that celebrates both creativity and process-driven efficiency. 
+Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and study. Interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
 
-I have accrued a wide range of experiences within the creative industries - tailoring, film, interior deisgn and audio-books over the past 10+ years. My resourcefulness, gritty determination and work ethic has allowed me to work for some of the most prestigious companies in their field. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
+My resourcefulness, gritty determination, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world for tailoring, film, interior deisgn and audio-books. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
-My logical and technical way of thinking along with my creative mindset has always proven an asset in my work. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers on another medium - one with infinite possibilities.   
+My logical and technical way of thinking along with my creative mindset has always proved an asset in the workplace. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers in another medium - especially one with infinite possibilities.   
 
-My interests are eclectic and wide ranging. I'm as enthusiastic about learning vintage dances as I am about ancient trees. I have always been a maker. 
+Beyond work, my interests are varied and eclectic. I'm as enthusiastic about 1940s jazz dance as I am about smashing balls on tennis courts and learning modern calligraphy. 
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Borrow My Garden**         | A webapp to do x. | React, Jest, etc. |
+| **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS
+|**Borrow My Garden**         | A webapp to do x. | React, Jest, etc. |
 | **Makers BNB **              | A webapp to do y. | Ruby              |
 | **Rank the Player **         | A game whereby the player has to guess the rank of the tennis player | Javascript, HTML, CSS, SASS         |
 
