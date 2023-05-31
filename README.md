@@ -1,12 +1,12 @@
 ## Leah Massey
 
-Detail oriented, Full Stack Software Engineer, trained at Makers Academy. Currently continuing to develop my programming knowledge through personal projects and study. Interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
+Hello there 👋🏻 I'm a detail oriented, Full Stack Software Engineer and enthusiastic career-switcher, trained at Makers Academy and now looking for my first job in tech. I'm interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
 
-My resourcefulness, gritty determination, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world for tailoring, film, interior deisgn and audio-books. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
+My resourcefulness, gritty determination, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world for tailoring, film and interior design. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
 My logical and technical way of thinking along with my creative mindset has always proved an asset in the workplace. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers in another medium - especially one with infinite possibilities.   
 
-Beyond work, my interests are varied and eclectic. I'm as enthusiastic about 1940s jazz dance as I am about smashing balls on tennis courts and learning modern calligraphy. 
+Beyond work, my interests are varied and eclectic. I'm as keen on 1940s jazz dance as I am about smashing balls on tennis courts and getting out the quill and ink to teach myself modern calligraphy. 
 
 
 ## Projects
@@ -14,7 +14,7 @@ Beyond work, my interests are varied and eclectic. I'm as enthusiastic about 194
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS
-|**Borrow My Garden**         | A webapp to do x. | React, Jest, etc. |
+|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens OR browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas,  |
 | **Makers BNB **              | A webapp to do y. | Ruby              |
 | **Rank the Player **         | A game whereby the player has to guess the rank of the tennis player | Javascript, HTML, CSS, SASS         |
 
@@ -31,20 +31,29 @@ Head of Production
 
 - Oversaw production from design inception through to cloth manufacture (Turkey) and garment manufacture (UK), communicating updates across entire team, keeping team engaged and excited during intense production periods
 
+----
 
 **Studio Reed** (Jan 2016 - March 2018)  
 PA to Director
 
 - Any experience relevent to software development
 
+----
+
 **Edward Sexton Master Tailor** (dates)  
 Tailoring Assistant
+
+----
 
 **Rushforth Media** (Dec 2012 - Sep 2014)  
 Audio Book Producer / Sound Engineer
 
+----
+
 **Mother London**
 Runner 
+
+----
 
 **Warner Brothers - Johnny English II**
 Set Decorator's Assistant
@@ -64,7 +73,7 @@ Here's an example
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+#### Self Starter
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -85,7 +94,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Newham College
+#### Newham College (2015)
 - Tailoring Diploma
 
 #### University of Bristol (2007 - 2010) 
@@ -96,7 +105,7 @@ I honed my communication skills while completing my thesis at university, which 
 #### University College Falmouth (2006 - 2007)
 
 - Art Foundation 
-- Merit
+- Distinction
 - I went in wanting to become a fine artist, I came out thinking otherwise 
 
 #### Truro College 
@@ -109,20 +118,8 @@ I honed my communication skills while completing my thesis at university, which 
 - GCSE : 9A*, 1A
 
 
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years.
-If I'm not dancing, I can usually be found on the tennis courts in and around Hackney or drafting a new pattern for some clothing I've designed.  
+If I'm not dancing, I can usually be found on the tennis courts in and around Hackney, drawing or drafting a new pattern for some clothing I've designed.  
 
-
-Hello, my name is Leah 
-I'm a maker and a problem solver with a background in tailoring and production management. 
-
-I've a sharp analytical mind and an eye that cannot help but look over a problem one last time, 
-I find something I like, I take it apart and I rebuild it, but better.
-If I find something I like, I'd sooner learn how to make it than buy it. 
