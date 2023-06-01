@@ -14,9 +14,8 @@ Beyond work, my interests are varied and eclectic. I'm as keen on 1940s jazz dan
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS
-|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens OR browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas,  |
+|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas,  |
 | **Makers BNB **              | A webapp to do y. | Ruby              |
-| **Rank the Player **         | A game whereby the player has to guess the rank of the tennis player | Javascript, HTML, CSS, SASS         |
 
 ## Work Experience
 
@@ -95,6 +94,7 @@ I honed my communication skills while completing my thesis at university, which 
 - RSpec, Jasmine
 
 #### Newham College (2015)
+
 - Tailoring Diploma
 
 #### University of Bristol (2007 - 2010) 
@@ -108,12 +108,9 @@ I honed my communication skills while completing my thesis at university, which 
 - Distinction
 - I went in wanting to become a fine artist, I came out thinking otherwise 
 
-#### Truro College 
-
-- A Levels : Maths(A), English(A), Art(A)
-
 #### Liskeard School and Community College
 
+- A Levels : Maths(A), English(A), Art(A)
 - AS Levels : Maths(A), English(A), Art(A), French(A)
 - GCSE : 9A*, 1A
 
