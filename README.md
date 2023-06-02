@@ -50,8 +50,8 @@ Highly selective 16-week programming course with
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tennis Ranking Game 🎾 **       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS, 
-|**Borrow My Garden 🌸 **         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Node.js, Express.js, Atlas, MongoDB, HTML, Chakra,  |
+| **Tennis Ranking Game 🎾**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS, 
+|**Borrow My Garden 🌸**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Node.js, Express.js, Atlas, MongoDB, HTML, Chakra,  |
 | **Makers BNB**              | A webapp to built in the spirit of AirBNB | Ruby, PostgreSQL, Rspec              |
 
 <a name="work"></a>
