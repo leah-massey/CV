@@ -1,6 +1,6 @@
 ## Leah Massey
 
-Hello there 👋🏻 I'm a detail oriented, Full Stack Software Engineer, trained at the prestigious Makers Academy. I'm interested in roles where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
+Hello there 👋🏻 I'm a detail oriented, Software Engineer, trained at the prestigious Makers Academy. I'm currently looking for my first role in tech. I'm interested in positions where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
 
 My resourcefulness, people-skills, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
@@ -14,15 +14,15 @@ Beyond work, my interests are varied and eclectic. I'm as keen on 1940s jazz dan
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS
-|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas,  |
-| **Makers BNB **              | A webapp to do y. | Ruby              |
+|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas, MongoDB, HTML, Chakra, Express  |
+| **Makers BNB**              | A webapp to built in the spirit of AirBNB | Ruby              |
 
 ## Work Experience
 
 **Palava** (November 2018 - June 2022)  
 Head of Production
 
-- Initialised, created and creatively directed Palava’s best selling product - a collection of heritage knitwear that was 100% British, from sheep to final knit. The collection received attention from the National Press for its sustainability credentials and quality.
+- Initialised, produced and creatively directed Palava’s best selling product - a collection of heritage knitwear that was 100% British, from sheep to final knit. The collection received attention from the National Press for its sustainability credentials and quality.
 
 - Created and maintained the company’s Critical Path structure, making production more efficient and allowing Palava to bring collection launches forwards, generating an extra 2 months revenue each season. 
 
@@ -35,7 +35,13 @@ Head of Production
 **Studio Reed** (Jan 2016 - March 2018)  
 PA to Director
 
-- Any experience relevent to software development
+- Effectively managed the maintenance and daily running of multiple properties - including renovation, household bills and purchases.
+
+- Regularly organised extensive and complex international travel, creating detailed itineraries and schedules, arranged visas, booked flights.
+
+- Managed ever-changing work and private diaries, communicating updates & making entries thorough and clear. 
+
+- Confidentially managed both business and private emails. Trusted with communicating on behalf of employer, keeping pace with last-minute updates and relaying information efficiently and with clarity.
 
 ----
 
@@ -44,23 +50,20 @@ Tailoring Assistant
 
 ----
 
-**Rushforth Media** (Dec 2012 - Sep 2014)  
+**Rushforth Media** (Dec 2012 - Jan 2015)  
 Audio Book Producer / Sound Engineer
 
-----
-
-**Mother London**
-Runner 
-
-----
+---
 
 **Warner Brothers - Johnny English II**
-Set Decorator's Assistant
+Set Decorator's Assistant (June 2010 - August 2011)  
 
 
 ## Skills
 
 I'm a problem solver. I like to create systems where there are none to help create an efficient working environment. 
+
+
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
