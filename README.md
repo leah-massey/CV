@@ -1,26 +1,41 @@
 ## Leah Massey
 
-Hello there 👋🏻 I'm a detail oriented, Software Engineer trained at the prestigious Makers Academy. I'm currently looking for my first role in tech. I'm interested working for companies that celebrate both creativity and productivity. 
+Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the prestigious Makers Academy. I'm currently looking to secure my first role in tech, having spent the past 10+ years accruing a wealth of experiences and transferrable skills within the Arts. I'm interested working for companies that celebrate both creativity and productivity. 
 
 ## Skills
 
 My resourcefulness, people-skills, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
-My logical and technical way of thinking along with my artistic eye and creative problem solving skills has always proved an asset in the workplace. Being able to utilise both sides of my brain allows me to make consistently valuable contributions and see opportunity where others might not. 
 
-The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore another medium - especially coding with its infinite possibilities. 
+My logical and technical way of thinking along with my artistic eye and creative problem solving skills has always proved an asset in the workplace. Being able to utilise both sides of my brain allows me to make consistently valuable contributions and to regularly see opportunity where others might not. 
 
-I have a background in Design 
+The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
+
+Over the course of my career I have accrued many design skills, not least becoming fluent in the Adobe Suite. I am able to both create and interpret with ease technical drawings and designs. Being comfortable around design work has proved incredibly helpful when interpreting briefs and building projects. 
 
 #### Communication
 
-Communication has been a critical skill in each of my roles to date. In my latest position as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liasing with our fabric manufacturers in Turkey or managing the immediate design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
+Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunty to learn from and share knowledge with my fellow students. 
 
-My high-level EQ skills have meant that I have alwyas maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset 
+In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liasing with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
+
+My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
 
 ## Tech Experience
 
 #### Makers Academy (January 2023 - May 2023)
+
+Highly selective 16-week programming course with 
+
+- Daily Pair Programming
+- Object Orientated Programming
+- Test Driven Development
+- Agile Methodologies
+- Ruby, Javascript, 
+- Strong focus on developing EQ skills
+- 2 x2 week long team projects 
+
+
 
 
  
