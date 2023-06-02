@@ -26,7 +26,7 @@ I am proudly self-taught and fluent in the Adobe Suite and also as an advanced p
 
 Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunity to learn from and share knowledge with my fellow students. 
 
-In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liasing with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
+In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liaising with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
 
 My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
 
