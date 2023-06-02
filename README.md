@@ -4,16 +4,19 @@ Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the pres
 
 ## Skills
 
-My resourcefulness, people-skills, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
+#### Apetite for Learning
+My resourcefulness, people-skills, and work ethic has allowed me to work and learn from some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
+#### Logic and Creativity
+I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to make consistently valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
 
-My logical and technical way of thinking along with my artistic eye and creative problem solving skills has always proved an asset in the workplace. Being able to utilise both sides of my brain allows me to make consistently valuable contributions and to regularly see opportunity where others might not. 
-
+#### Detail Oriented
 The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
 
-Over the course of my career I have accrued many design skills, not least becoming fluent in the Adobe Suite. I am able to both create and interpret with ease technical drawings and designs. Being comfortable around design work has proved incredibly helpful when interpreting briefs and building projects. 
+#### Self Starter 
+I am proudly self-taught and fluent in the Adobe Suite and practise advanced pattern cutting as a hobby (again self taught). I am able to both create and interpret with ease technical drawings and designs. Being comfortable around design work has proved incredibly helpful when interpreting briefs and building projects. 
 
-#### Communication
+## Communication
 
 Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunty to learn from and share knowledge with my fellow students. 
 
@@ -34,11 +37,6 @@ Highly selective 16-week programming course with
 - Ruby, Javascript, 
 - Strong focus on developing EQ skills
 - 2 x2 week long team projects 
-
-
-
-
- 
 
 
 ## Projects
@@ -92,30 +90,10 @@ Set Decorator's Assistant (June 2010 - August 2011)
 
 
 
-
-
-
-
-#### Self Starter
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
 ## Education
 
 #### Makers Academy (January '23 - May '23)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
 
 #### Newham College (2015)
 
