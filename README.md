@@ -11,7 +11,7 @@ Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the pres
 I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
 
 #### Problem Solving 
-Whether it be working out how to put inot practise a 'zero waste' policy as Head of Production in the notorioulsy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
+Whether it be working out how to put intO practise a 'zero waste' policy as Head of Production in the notoriousLy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
 
 #### Detail Oriented
 The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
