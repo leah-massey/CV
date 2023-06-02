@@ -8,7 +8,7 @@ Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the pres
 ## Skills
 
 #### Logic and Creativity
-I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to make consistently valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
+I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
 
 #### Problem Solving 
 Whether it be working out how to put inot practise a 'zero waste' policy as Head of Production in the notorioulsy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
