@@ -24,7 +24,7 @@ I am proudly self-taught and fluent in the Adobe Suite and also as an advanced p
 
 ## Communication
 
-Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunty to learn from and share knowledge with my fellow students. 
+Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunity to learn from and share knowledge with my fellow students. 
 
 In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liasing with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
 
