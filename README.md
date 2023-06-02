@@ -1,21 +1,38 @@
 ## Leah Massey
 
-Hello there 👋🏻 I'm a detail oriented, Software Engineer, trained at the prestigious Makers Academy. I'm currently looking for my first role in tech. I'm interested in positions where I can continue to hone my craft within a company that celebrates both creativity and productivity. 
+Hello there 👋🏻 I'm a detail oriented, Software Engineer trained at the prestigious Makers Academy. I'm currently looking for my first role in tech. I'm interested working for companies that celebrate both creativity and productivity. 
+
+## Skills
 
 My resourcefulness, people-skills, eye for detail and work ethic has allowed me to work for some of the most prestigious creative companies in the world. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
 
-My logical and technical way of thinking along with my creative mindset has always proved an asset in the workplace. The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, practise, experiment and then execute. It excites me to flex my fingers in another medium - especially one with infinite possibilities.   
+My logical and technical way of thinking along with my artistic eye and creative problem solving skills has always proved an asset in the workplace. Being able to utilise both sides of my brain allows me to make consistently valuable contributions and see opportunity where others might not. 
 
-Beyond work, my interests are varied and eclectic. I'm as keen on 1940s jazz dance as I am about smashing balls on tennis courts and getting out the quill and ink to teach myself modern calligraphy. 
+The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that is not only fitting a brief but also elegant in its design. Learning to code has so many parallells to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore another medium - especially coding with its infinite possibilities. 
+
+I have a background in Design 
+
+#### Communication
+
+Communication has been a critical skill in each of my roles to date. In my latest position as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liasing with our fabric manufacturers in Turkey or managing the immediate design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
+
+My high-level EQ skills have meant that I have alwyas maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset 
+
+## Tech Experience
+
+#### Makers Academy (January 2023 - May 2023)
+
+
+ 
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS
-|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Atlas, MongoDB, HTML, Chakra, Express  |
-| **Makers BNB**              | A webapp to built in the spirit of AirBNB | Ruby              |
+| **Tennis Ranking Game**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS, 
+|**Borrow My Garden**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Node.js, Express.js, Atlas, MongoDB, HTML, Chakra,  |
+| **Makers BNB**              | A webapp to built in the spirit of AirBNB | Ruby, PostgreSQL, Rspec              |
 
 ## Work Experience
 
@@ -59,21 +76,10 @@ Audio Book Producer / Sound Engineer
 Set Decorator's Assistant (June 2010 - August 2011)  
 
 
-## Skills
-
-I'm a problem solver. I like to create systems where there are none to help create an efficient working environment. 
 
 
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
 #### Self Starter
 
