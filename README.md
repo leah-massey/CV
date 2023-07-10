@@ -11,7 +11,7 @@ Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the pres
 I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
 
 #### Problem Solving 
-Whether it be working out how to put intO practise a 'zero waste' policy as Head of Production in the notoriousLy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
+Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriousLy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
 
 #### Detail Oriented
 The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallels to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
@@ -48,11 +48,14 @@ Highly selective 16-week programming course with
 <a name="projects"></a>
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Tennis Ranking Game 🎾**       | A game built in honour of my most beloved sport : tennis. | Javascript, HTML, CSS, SASS, 
-|**Borrow My Garden 🌸**         | A webapp allowing users to create an account list their unused gardens. Users can also browse listed gardens and find a local garden that they can cultivate. | React, Javascript, Node.js, Express.js, Atlas, MongoDB, HTML, Chakra,  |
-| **Makers BNB**              | A webapp to built in the spirit of AirBNB | Ruby, PostgreSQL, Rspec              |
+[Link text Here](https://link-url-here.org)
+
+| Name                         | Description       | Tech/tools        | Code / Demo Links
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
+ **Tennis Ranking Game II**       |Version II of the above, built in React using TDD and OOP (work in Progress)| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
+|**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
+| **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
 
 <a name="work"></a>
 ## Work Experience
