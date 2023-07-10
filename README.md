@@ -50,10 +50,10 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 <a name="projects"></a>
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Code / Demo Links
+| Name                         | Description       | Technologies      | Code / Demo Links
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
- **Tennis Ranking Game II**       |Version II of the above, this time built in React using TDD and OOP (work in Progress)| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
+ **Tennis Ranking Game II**       |Version II of the above, this time built in React using TDD and OOP (work in Progress!).| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
 |**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills. | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
 | **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
 
