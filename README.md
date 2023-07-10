@@ -1,11 +1,66 @@
-<h1 style="text-align: center;">Leah Massey</h1>
+<h1 align="center">Leah Massey</h1>
 
-[Skills](#skills)  ✶  [Projects](#projects)  ✶  [Tech Experience ](#tech)  ✶  [Work Experience](#work)  ✶  [Education](#edu)  ✶  [Hobbies](#hobbies) 
+<div align="center">
+<h3>leahrmassey@gmail.com</h3>  
+  <a href="https://jazzy-puffpuff-08ff5d.netlify.app/">My Portfolio |</a>  
+  <a href="https://www.linkedin.com/in/leah-massey-174b4327/">LinkedIn</a>
+</div>
+<br></br>
 
-Hello there 👋🏻 I'm a detail oriented Software Engineer trained at the prestigious Makers Academy. I'm currently looking to secure my first role in tech, having spent the past 10+ years accruing a wealth of experiences and transferrable skills within the Arts. I'm interested working for companies that celebrate both creativity and productivity. 
+
+
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+
+---
+
+Hello there 👋🏻 I’m a Software Engineer who likes details, finding patterns and embracing new concepts. I’m a graduate of Makers Academy, and an enthusiast of TDD, great communication and continual learning. I have over a decade’s worth of experience conceptualising, building and creative problem-solving within the worlds of bespoke craftsmanship (tailoring & interior design) and production management. I thrive in environments where I can use both logic and creativity and am really excited that Software Engineering  provides me with an endless opportunity for both. 
+
+<a name="tech"></a>
+## Tech Experience
+
+#### Makers Academy (January 2023 - May 2023)
+
+Intensive full time and fast-paced 16 week Software Engineering bootcamp following Agile methodologies with weekly challenges, and multiple team projects.
+
+- Independent learning structure allowed me to quickly developed strong research skills, employing a combination of online resources, personal projects and pair programming to enhance my studies and better my understanding. These are practises that I continue today. 
+- Trained using TDD from the offset. I really enjoy with the logical processes behind this practise and the solid base it gives to a project. TDD has many parallels to my tailoring & production experiences.
+- Daily pair-programming at Makers gave me an opportunity to learn from and share knowledge with others. 
+It was a particularly rewarding way of learning and an exciting turning point when it became more efficient, too.
+- Large emphasis on cultivating high workplace EQ and wellbeing - with workshops surrounding this topic, regular check-ins, daily retros and stand-ups - all of which made for easy communication throughout team projects.
+
+
+<a name="projects"></a>
+## Projects
+
+| Name                         | Description       | Tech/tools        | Code / Demo Links
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
+ **Tennis Ranking Game II**       |Version II of the above, this time built in React using TDD and OOP (work in Progress)| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
+|**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
+| **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
+
 
 <a name="skills"></a>
 ## Skills
+
 
 #### Logic and Creativity
 I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
@@ -30,32 +85,7 @@ In my previous role as Head of Production I was responsible for communicating ac
 
 My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
 
-<a name="tech"></a>
-## Tech Experience
 
-#### Makers Academy (January 2023 - May 2023)
-
-Highly selective 16-week programming course with 
-
-- Daily Pair Programming
-- Object Orientated Programming
-- Test Driven Development
-- Agile Methodologies
-- Ruby, Javascript, 
-- Strong focus on developing EQ skills
-- 2 x2 week long team projects 
-
-<a name="projects"></a>
-## Projects
-
-[Link text Here](https://link-url-here.org)
-
-| Name                         | Description       | Tech/tools        | Code / Demo Links
-| ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
- **Tennis Ranking Game II**       |Version II of the above, built in React using TDD and OOP (work in Progress)| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
-|**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
-| **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
 
 <a name="work"></a>
 ## Work Experience
@@ -130,5 +160,11 @@ Set Decorator's Assistant (June 2010 - August 2011)
 <a name="hobbies"></a>
 ## Hobbies
 
+
+
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years. If I'm not dancing, I can usually be found on the tennis courts in and around Hackney, drawing or drafting a new pattern for some clothing I've designed myself.  
+
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-davies-b750521b9) 
 
