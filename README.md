@@ -54,7 +54,7 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
  **Tennis Ranking Game II**       |Version II of the above, this time built in React using TDD and OOP (work in Progress)| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
-|**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
+|**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills. | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
 | **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
 
 
@@ -63,26 +63,21 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 
 
 #### Logic and Creativity
-I have both a mathematical and design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical way of working along with my creative problem solving skills has always proved an asset in the workplace. 
+I have both a mathematical and a design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical and precision-focussed way of working was honed during my training as a bespoke tailor and also during my experiences running production for a clothing company where garment QC and development were but a few of my responsibilities.
 
 #### Problem Solving 
-Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriousLy wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
+Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriously wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
 
 #### Detail Oriented
 The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallels to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
 
 #### Apetite for Learning
-My resourcefulness, people-skills, and work ethic has allowed me to work and learn from some of the most prestigious creative companies in the world across the fields of fashion, design and film. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry.
+I have a natural curiosity and desire to learn which, combined with a discliplined work ethic, has helped me achieve knowledge and skills across multiple disciplines. My resourcefulness, people-skills, adaptability and work ethic has allowed me to work and learn from some of the most prestigious creative companies in the world across the fields of fashion, design and film. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry. 
 
-#### Self Starter 
-I am proudly self-taught and fluent in the Adobe Suite and also as an advanced pattern cutter. I am able to both create and interpret with ease technical drawings and designs. Being comfortable around design work has proved incredibly helpful when interpreting briefs and building projects. I have a natural curiosity and desire to learn which, combined with a discliplined work ethic, has helped me achieve knowledge and skills across multiple disciplines. 
-
-## Communication
+#### Communication
 
 Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunity to learn from and share knowledge with my fellow students. 
-
 In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liaising with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
-
 My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
 
 
@@ -90,44 +85,41 @@ My high-level EQ skills have meant that I have always maintained excellent relat
 <a name="work"></a>
 ## Work Experience
 
-**Palava** (November 2018 - June 2022)  
-Head of Production
+**HEAD OF PRODUCTION - Palava** (November 2018 - May 2022)  
+Womenswear clothing company with strong focus on sustainability.
 
-- Initialised, produced and creatively directed Palava’s best selling product - a collection of heritage knitwear that was 100% British, from sheep to final knit. The collection received attention from the National Press for its sustainability credentials and quality.
+- Oversaw company’s production from initial garment design through to cloth and garment manufacture, responsible for garment QC, communicating updates, keeping team engaged and motivated during intense production periods.
 
-- Created and maintained the company’s Critical Path structure, making production more efficient and allowing Palava to bring collection launches forwards, generating an extra 2 months revenue each season. 
+- Budgeted the entire production run each season - producing detailed interactive costings sheets, allowing for accurate financial forecasting.
 
-- Budgeted the entire production run each season - producing detailed and  interactive costings sheets  (my love for Excel was born here and maybe hinted at where I was heading :-) ) 
+- Designed and maintained the company’s Critical Path, greatly improving production efficiency, team time-management and generating an extra 2 months revenue each season.  
 
-- Oversaw production from design inception through to cloth manufacture (Turkey) and garment manufacture (UK), communicating updates across entire team, keeping team engaged and excited during intense production periods
-
-----
-
-**Studio Reed** (Jan 2016 - March 2018)  
-PA to Director
-
-- Effectively managed the maintenance and daily running of multiple properties - including renovation, household bills and purchases.
-
-- Regularly organised extensive and complex international travel, creating detailed itineraries and schedules, arranged visas, booked flights.
-
-- Managed ever-changing work and private diaries, communicating updates & making entries thorough and clear. 
-
-- Confidentially managed both business and private emails. Trusted with communicating on behalf of employer, keeping pace with last-minute updates and relaying information efficiently and with clarity.
+- Recognised opportunity for growth - initialised, produced and creatively directed Palava’s best selling product.
 
 ----
 
-**Edward Sexton Master Tailor** (dates)  
-Tailoring Assistant
+**PA TO DIRECTOR - Studio Reed** (Jan 2016 - March 2018)  
+Efficient and meticulous management of HNW individual’s business & private life.
+
+- Effectively managed the maintenance and daily running of multiple large properties - including renovations, household bills and purchases as well as car and pet maintenance, private events and holidays. 
+
+- Consistently organised extensive and complex international business travel, creating detailed itineraries and schedules, arranged visas, booked flights.
+
+- Managed and prioritised ever-changing work and private appointments, monitored multiple inboxes, ensuring time was efficiently allocated to meetings and other commitments, ensured clear communication and detailed diary entries. 
 
 ----
 
-**Rushforth Media** (Dec 2012 - Jan 2015)  
-Audio Book Producer / Sound Engineer
+**TAILORING ASSISTANT - Edward Sexton Master Tailor** (March 2015 - January 2016)  
+Master Tailor, Savile  Row 
+
+- Continuation of tailoring studies, with emphasis on precision and  mathematical drafting techniques. Logic and process driven work, with meticulous attention to detail. 
 
 ---
 
-**Warner Brothers - Johnny English II**
-Set Decorator's Assistant (June 2010 - August 2011)  
+**ART DEPARTMENT ASSISTANT - Warner Brothers & Disney**
+John Carter of Mars  |  Johnny English  | Alice in Wonderland | Clash of the Titans
+
+ - Fast paced, initiative driven environments where team-work was key. Working to tight deadlines with daily  problem solving.
 
 
 <a name="edu"></a>
@@ -160,11 +152,7 @@ Set Decorator's Assistant (June 2010 - August 2011)
 <a name="hobbies"></a>
 ## Hobbies
 
-
-
 I'm a swing dancer, and have taught evening classes, run social events and danced around Europe at festivals for the past 12 years. If I'm not dancing, I can usually be found on the tennis courts in and around Hackney, drawing or drafting a new pattern for some clothing I've designed myself.  
 
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-davies-b750521b9) 
 
