@@ -2,12 +2,10 @@
 
 <div align="center">
 <h3>leahrmassey@gmail.com</h3>  
-  <a href="https://jazzy-puffpuff-08ff5d.netlify.app/">My Portfolio |</a>  
+  <a href="https://leah-massey.netlify.app/">My Portfolio |</a>  
   <a href="https://www.linkedin.com/in/leah-massey-174b4327/">LinkedIn</a>
 </div>
 <br></br>
-
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
