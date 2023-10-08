@@ -1,4 +1,4 @@
-<h1 align="center">Leah Massey</h1>
+<h1 align="center">✨ Leah Massey ✨</h1>
 
 <div align="center">
 <h3>leahrmassey@gmail.com</h3>  
@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/leah-massey-174b4327/">LinkedIn</a>
 </div>
 <br></br>
-
-
 
 
 
@@ -49,11 +47,11 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 
 <a name="projects"></a>
 ## Projects
+#### These are projects that I have built since graduating from Makers, do take a look!
 
 | Name                         | Description       | Technologies      | Code / Demo Links
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **Tennis Ranking Game**       |A guessing game where users must correctly guess the ranking of all top 20 female tennis players. | Javascript, HTML, CSS, SASS, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game)  🎾 [DEMO](https://main--animated-pixie-528dc3.netlify.app/)
- **Tennis Ranking Game II**       |Version II of the above, this time built in React using TDD and OOP (work in Progress!).| React, Javascript, Jest, HTML, |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II)
+ **Tennis Ranking Game**       |A guessing game, built in React using TDD and OOP. Featuring popups, session persistence and more! | React, Javascript, Jest, HTML, Tailwind |🛠️ [CODE](https://github.com/leah-massey/Tennis-Ranking-Game-II),  🎾[DEMO](https://the-tennis-ranking-game.netlify.app/) 
 |**Portfolio**         | A personal portfolio and platform onwhich to develop and grow my React skills. | React, Javascript, HTML, Tailwind, CSS  | 🛠️[CODE](https://github.com/leah-massey/Portfolio) ☀️[DEMO](https://jazzy-puffpuff-08ff5d.netlify.app/)
 | **Creative Project Planner**              | A platform where users can add, categorise and sort through their creative projects, keeping track of progress. | React, Javascript, HTML, Tailwind, CSS  |🛠️ [CODE](https://github.com/leah-massey/Creative-Project-Planner),  🎨[DEMO](https://silly-taiyaki-b5605c.netlify.app/)            
 
@@ -88,7 +86,7 @@ My high-level EQ skills have meant that I have always maintained excellent relat
 **HEAD OF PRODUCTION - Palava** (November 2018 - May 2022)  
 Womenswear clothing company with strong focus on sustainability.
 
-- Oversaw company’s production from initial garment design through to cloth and garment manufacture, responsible for garment QC, communicating updates, keeping team engaged and motivated during intense production periods.
+- Oversaw company’s production from initial garment design through to cloth and garment manufacture - responsible for managing supply chain, garment QC, communicating updates, keeping team engaged and motivated during intense production periods.
 
 - Budgeted the entire production run each season - producing detailed interactive costings sheets, allowing for accurate financial forecasting.
 
