@@ -31,7 +31,7 @@
 
 ---
 
-Hello there 👋🏻 I’m a Software Engineer who likes details, finding patterns and embracing new concepts. I’m a graduate of Makers Academy, and an enthusiast of TDD, great communication and continual learning. I have over a decade’s worth of experience conceptualising, building and creative problem-solving within the worlds of bespoke craftsmanship (tailoring & interior design) and production management. I thrive in environments where I can use both logic and creativity and am really excited that Software Engineering  provides me with an endless opportunity for both. 
+Hello there 👋🏻 I’m a Software Engineer who likes details, finding patterns and embracing new concepts. I’m a graduate of Makers Academy, and an enthusiast of TDD, great communication and continual learning. I most recently worked as Head of Porduction for a sustainable womenswear company and have over a decade’s worth of experience conceptualising, building and creative problem-solving within the worlds of bespoke craftsmanship (tailoring & interior design) and production management. I thrive in environments where I can use both logic and creativity and am really excited that Software Engineering  provides me with an endless opportunity for both. 
 
 <a name="tech"></a>
 ## Tech Experience
