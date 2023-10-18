@@ -59,7 +59,7 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 
 
 #### Logic and Creativity
-I have both a mathematical and a design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical and precision-focussed way of working was honed during my training as a bespoke tailor and also during my experiences running production for a clothing company where garment QC and development were but a few of my responsibilities.
+I have both a mathematical and a design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical and precision-focussed way of working was honed during my training as a bespoke tailor and also during my experiences running production for a clothing company where supply chain management, product development and garment QC were but a few of my responsibilities.
 
 #### Problem Solving 
 Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriously wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
