@@ -27,18 +27,18 @@
 
 ---
 
-Hello there 👋🏻 I’m a Software Engineer who likes details, finding patterns and embracing new concepts. I'm driven by a curiosity for building, creating and better understanding the world around me. I have a real hunger to learn and develop my craft and enjoy collaborating with others to create exceptional products. 
+Hello there 👋🏻 I’m a Software Engineer with a curiosity for building, creating, and better understanding the world around me. I’m an enthusiast of TDD, great communication, embracing new concepts and collaborating with others to create exceptional products.
 <br>
-I’m an enthusiast of TDD, great communication and continual learning. I most recently worked as Head of Production for a sustainable womenswear company and have over a decade’s worth of experience conceptualising, building and creative problem-solving within the worlds of bespoke craftsmanship (tailoring & interior design) and production management. I thrive in environments where I can use both logic and creativity and am really excited that Software Engineering  provides me with an endless opportunity for both. 
+I bring to my work over a decade’s worth of experience in conceptualising, building and creative problem-solving. I most recently worked as Head of Production for a sustainable womenswear company were I managed each collection's lifecyle from design inception through to delivery of final product. I was responsible for supply chain, garment QC, production timelines and costings. 
 
 <a name="tech"></a>
 ## Tech Experience
 
 #### Makers Academy (January 2023 - May 2023)
 
-Intensive full time and fast-paced 16 week Software Engineering bootcamp following Agile methodologies with weekly challenges, and multiple team projects.
+Intensive full time and fast-paced 16 week Software Engineering bootcamp following Agile methodologies.
 
-- Independent learning structure allowed me to quickly developed strong research skills, employing a combination of online resources, personal projects and pair programming to enhance my studies and better my understanding. These are practises that I continue today. 
+- Independent learning structure allowed me to develop strong research skills, employing a combination of online resources, personal projects and pair programming to enhance my studies and better my understanding. These are practises that I continue today. 
 - Trained using TDD from the offset. I really enjoy with the logical processes behind this practise and the solid base it gives to a project. TDD has many parallels to my tailoring & production experiences.
 - Daily pair-programming at Makers gave me an opportunity to learn from and share knowledge with others. 
 It was a particularly rewarding way of learning and an exciting turning point when it became more efficient, too.
@@ -62,23 +62,21 @@ It was a particularly rewarding way of learning and an exciting turning point wh
 
 
 #### Logic and Creativity
-I have both a mathematical and a design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and to regularly see opportunity where others might not. My technical and precision-focussed way of working was honed during my training as a bespoke tailor and also during my experiences running production for a clothing company where supply chain management, product development and garment QC were but a few of my responsibilities.
+I have both a mathematical and a design background. Being able to utilise both logic and creativity allows me to consistently make valuable contributions and I love that Software Engineering provides me with an endless opportunity for both. My technical and precision-focussed way of working was honed during my training as a bespoke tailor and also during my experiences running production for a clothing company where supply chain management, product development and garment QC were but a few of my responsibilities. 
 
 #### Problem Solving 
-Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriously wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
+Whether it be working out how to put into practise a 'zero waste' policy as Head of Production in the notoriously wasteful clothing industry or creative problem-solving to make the impossible possible during my work as a Private PA to UHNW individuals, I have developed outside of the box thinking and a determination to make things happen even when all paths seem to point to a dead end. 
 
 #### Detail Oriented
-The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallels to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
+The devil is in the detail and I love nothing better that peeling back the layers and building from scratch - learning, adapting, adjusting and adding to create something that not only fits a brief but is also elegant in its design. Learning to code has so many parallels to my experiences in tailoring - the attention to detail, the need to plan, be curious, practise, experiment and then execute. It excites me to explore the craft of coding for all of these reasons.
+
+#### Communication
+Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunity to learn from and share knowledge with my fellow students. 
+In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liaising with fabric manufacturers in Turkey or discussing ideas with our design team, I took great pride in my clarity of communication and ability to see the bigger picture - ultimately resulting in better products, produced more efficiently.
+My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
 
 #### Apetite for Learning
 I have a natural curiosity and desire to learn which, combined with a discliplined work ethic, has helped me achieve knowledge and skills across multiple disciplines. My resourcefulness, people-skills, adaptability and work ethic has allowed me to work and learn from some of the most prestigious creative companies in the world across the fields of fashion, design and film. I continually strive for excellence in everthing I do and find great joy in discovering and learning from masters of industry. 
-
-#### Communication
-
-Communication has been a critical skill in each of my roles to date, including during my time at Makers where daily pair programming was a highlight and an opportunity to learn from and share knowledge with my fellow students. 
-In my previous role as Head of Production I was responsible for communicating across an entire team of employees. Whether I was liaising with fabric manufacturers in Turkey or managing a design team, I took great pride in my clarity of communication and acted with diplomacy and fairness in all situations.
-My high-level EQ skills have meant that I have always maintained excellent relationships with employers and work colleagues. I welcome feedback and maintain a growth mindset at all times. 
-
 
 
 <a name="work"></a>
